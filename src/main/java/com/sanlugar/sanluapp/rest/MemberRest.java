@@ -32,7 +32,7 @@ public class MemberRest {
         return "Welcome from secure endpoint";
     }
 
-    @GetMapping(value= "member")
+    @GetMapping(value= "members")
     private ResponseEntity<List<Member>> getAllMembers() {
         return ResponseEntity.ok(memberService.findAll());
     }

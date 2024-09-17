@@ -50,67 +50,67 @@ public class MemberService implements MemberRepository {
 
     @Override
     public void deleteAllByIdInBatch(Iterable<Long> ids) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteAllByIdInBatch'");
     }
 
     @Override
     public void deleteAllInBatch() {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteAllInBatch'");
     }
 
     @Override
     public void deleteAllInBatch(Iterable<Member> entities) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteAllInBatch'");
     }
 
     @Override
     public <S extends Member> List<S> findAll(Example<S> example) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findAll'");
     }
 
     @Override
     public <S extends Member> List<S> findAll(Example<S> example, Sort sort) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findAll'");
     }
 
     @Override
     public void flush() {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'flush'");
     }
 
     @Override
     public Member getById(Long arg0) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'getById'");
     }
 
     @Override
     public Member getOne(Long arg0) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'getOne'");
     }
 
     @Override
     public Member getReferenceById(Long id) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'getReferenceById'");
     }
 
     @Override
     public <S extends Member> List<S> saveAllAndFlush(Iterable<S> entities) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'saveAllAndFlush'");
     }
 
     @Override
     public <S extends Member> S saveAndFlush(S entity) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'saveAndFlush'");
     }
 
@@ -121,61 +121,61 @@ public class MemberService implements MemberRepository {
 
     @Override
     public List<Member> findAllById(Iterable<Long> ids) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findAllById'");
     }
 
     @Override
     public <S extends Member> List<S> saveAll(Iterable<S> entities) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'saveAll'");
     }
 
     @Override
     public long count() {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'count'");
     }
 
     @Override
     public void delete(Member entity) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'delete'");
     }
 
     @Override
     public void deleteAll() {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteAll'");
     }
 
     @Override
     public void deleteAll(Iterable<? extends Member> entities) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteAll'");
     }
 
     @Override
     public void deleteAllById(Iterable<? extends Long> ids) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteAllById'");
     }
 
     @Override
     public void deleteById(Long id) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'deleteById'");
     }
 
     @Override
     public boolean existsById(Long id) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'existsById'");
     }
 
     @Override
     public Optional<Member> findById(Long id) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findById'");
     }
 
@@ -191,37 +191,37 @@ public class MemberService implements MemberRepository {
 
     @Override
     public Page<Member> findAll(Pageable pageable) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findAll'");
     }
 
     @Override
     public <S extends Member> long count(Example<S> example) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'count'");
     }
 
     @Override
     public <S extends Member> boolean exists(Example<S> example) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'exists'");
     }
 
     @Override
     public <S extends Member> Page<S> findAll(Example<S> example, Pageable pageable) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findAll'");
     }
 
     @Override
     public <S extends Member, R> R findBy(Example<S> example, Function<FetchableFluentQuery<S>, R> queryFunction) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findBy'");
     }
 
     @Override
     public <S extends Member> Optional<S> findOne(Example<S> example) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'findOne'");
     }
 
