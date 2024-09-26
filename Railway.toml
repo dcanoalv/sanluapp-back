@@ -1,0 +1,9 @@
+# Configuración del proyecto Railway para una app Spring Boot
+
+[build]
+  # Especifica que se trata de una aplicación Java
+  builder = "maven" # o "gradle", dependiendo de tu proyecto
+
+[deploy]
+  # Comando para ejecutar la aplicación
+  start = "java -jar target/mi-app-springboot.jar"
