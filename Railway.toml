@@ -6,4 +6,4 @@
 
 [deploy]
   # Comando para ejecutar la aplicación
-  start = "java -jar target/mi-app-springboot.jar"
+  start = "java -jar target/sanluapp-0.0.1-SNAPSHOT.jar"
